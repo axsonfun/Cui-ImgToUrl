@@ -14,7 +14,7 @@
 
 #### [1.0] 正式开库，欢迎尝鲜~
 
-### 开源项目：Github[https://github.com/dorasees/cui-imgtourl-4in1
+### 开源项目：Github[https://github.com/dorasees/cui-imgtourl-4in1]
 
 ### 开发维护：Dorasees<https://www.dorasees.com>[dorasees@qq.com]
 
